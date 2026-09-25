@@ -1,16 +1,36 @@
-<div align="center">
+<table>
+<tr>
+<td width="130" align="center">
 
 <img src="./vinyl.svg" width="110" alt="spinning record" />
 
-**VADYM DUBINKIN** — LP
+</td>
+<td>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=460&lines=senior+full-stack+engineer;shipping+saas+products%2C+end+to+end;now%3A+openai+%2B+langchain+%2B+rag;kyiv+%C2%B7+remote+only" alt="rotating tagline" />
+**VADYM DUBINKIN**
+"shipping, since 2021"
 
-──────────────────────────
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=420&lines=senior+full-stack+engineer;react+%C2%B7+typescript+%C2%B7+node.js;openai+api+%C2%B7+langchain+%C2%B7+rag;kyiv+%C2%B7+remote+only" alt="rotating tagline" />
 
-</div>
+```
+label     s1n recordings
+cat. no   SC-2026
+format    remote-only, 33⅓ rpm
+```
 
-<br>
+</td>
+</tr>
+</table>
+
+──────────────────────────────────────────
+
+**NOW PLAYING**
+
+<img src="./eq.svg" width="160" alt="equalizer" />
+
+`building devflow ai — an ai workspace with rag over your own codebase`
+
+──────────────────────────────────────────
 
 ```
 SIDE A
@@ -27,22 +47,8 @@ SIDE B
 03. kyiv, ukraine — remote only
 ```
 
-<br>
+──────────────────────────────────────────
 
-<div align="center">
+<sub>produced & engineered by vadym dubinkin · kyiv, ua</sub>
 
-──────────────────────────
-
-<!--
-  animated contribution snake — needs a one-time GitHub Actions setup.
-  see the note below the line for the workflow file.
--->
-<img src="https://raw.githubusercontent.com/s1nn1ster/s1nn1ster/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
-
-──────────────────────────
-
-pressed on [linkedin](https://www.linkedin.com/in/vadym-dubinkin-dev/) · [vadymdevv@gmail.com](mailto:vadymdevv@gmail.com)
-
-──────────────────────────
-
-</div>
+booking: [linkedin](https://www.linkedin.com/in/vadym-dubinkin-dev/) · [vadymdevv@gmail.com](mailto:vadymdevv@gmail.com)
